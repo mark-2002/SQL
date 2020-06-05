@@ -1,4 +1,4 @@
--- This is the first query
+
 SELECT * FROM console_games;
 
 SELECT SUM (na_sales) FROM console_games;
